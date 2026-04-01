@@ -1,0 +1,1 @@
+"Texto de prueba creando archivo desde el explorador"
